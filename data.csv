@@ -1,0 +1,6 @@
+Doctor,D001,Juan Perez,Cardiologo
+Doctor,D002,Juana Lopez,Dermatologa
+Patient,P001,Jesus Hernandez
+Patient,P002,Maria Gonzalez
+Appointment,A001,2023-06-15 10:00,Seguimiento,D001,P001
+Appointment,A002,2023-06-16 14:30,Evaluacion,D002,P002
